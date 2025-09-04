@@ -30,7 +30,7 @@ La aplicación permite explorar las características principales de los autos di
 1. Clona el repositorio en tu computadora local:
 
 ```bash
-git clone <url-del-repositorio>
+git clone "https://github.com/LopezArturo2024/sprint7_project"
 ```
 
 2. Instala las librerías necesarias:
@@ -46,3 +46,6 @@ streamlit run app.py
 ```
 
     4. También puedes acceder a tráves del servicio web en render con el siguiente vínculo:
+
+[
+    Render - Service Web](https://proyecto-final-del-sprint-7-ds.onrender.com)
